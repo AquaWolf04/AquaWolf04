@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm AquaWolf04</h1>
-<h3 align="center">A passionate frontend developer from Hungary 🇭🇺</h3>
+<h3 align="center">A passionate frontend developer from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theaquawolf&label=Profile%20views&color=0e75b6&style=flat" alt="theaquawolf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaquawolf" alt="theaquawolf" /></a> </p>
 
-- 🔭 I’m currently working on [Player.](https://player.aquawolf04.com),[Webadmin](https://webadmin.aquahosting.games)
+- 🔭 I’m currently working on [Player.](https://player.aquawolf04.com), [Webadmin](https://webadmin.aquahosting.games)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Python, Angular**
 
