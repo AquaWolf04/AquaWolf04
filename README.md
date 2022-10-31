@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AquaWolf04</h1>
 <h3 align="center">A passionate backend developer from Hungary</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theaquawolf&label=Profile%20views&color=0e75b6&style=flat" alt="theaquawolf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aquawolf04&label=Profile%20views&color=0e75b6&style=flat" alt="aquawolf04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaquawolf" alt="theaquawolf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquawolf04" alt="aquawolf04" /></a> </p>
 
 - 🔭 I’m currently working on [Player.](https://code-player.hu), [Webadmin](https://webadmin.gaminghosting.hu)
 
