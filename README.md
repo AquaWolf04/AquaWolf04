@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquawolf04" alt="aquawolf04" /></a> </p>
 
-- 🔭 I’m currently working on [Player.](https://code-player.hu), [Webadmin](https://webadmin.gaminghosting.hu)
+- 🔭 I’m currently working on [MoziVersum](https://moziversum.com), [CDNStorage](https://cdnstorage.hu)
 
 - 📫 How to reach me **info@aquawolf04.com**
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquawolf04&show_icons=true&locale=en" alt="aquawolf04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquawolf04&" alt="aquawolf04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquawolf04" alt="aquawolf04" /></p>
