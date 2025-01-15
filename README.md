@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=aquawolf04&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aquawolf04&theme=gruvbox&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🌟 **About Me**
